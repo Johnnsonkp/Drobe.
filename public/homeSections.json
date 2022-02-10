@@ -1,0 +1,30 @@
+[
+    {
+      "title": "T-Shirts",
+      "imageUrl": "./imgs/t-shirt.jpg",
+      "id": 1
+    },
+    {
+        "title": "Polos",
+        "imageUrl": "./imgs/t-shirt.jpg",
+        "id": 2
+    },
+    {
+        "title": "Jackets",
+        "imageUrl": "./imgs/t-shirt.jpg",
+        "id": 3
+    },
+    {
+        "title": "Accessories",
+        "imageUrl": "./imgs/t-shirt.jpg",
+        "size": "large",
+        "id": 4
+    },
+    {
+        "title": "Jeans",
+        "imageUrl": "./imgs/t-shirt.jpg",
+        "size": "large",
+        "id": 5
+    }
+    
+]
