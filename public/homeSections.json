@@ -2,29 +2,34 @@
     {
       "title": "T-Shirts",
       "imageUrl": "./imgs/t-shirt.jpg",
-      "id": 1
+      "id": 1,
+      "linkUrl": "c"
     },
     {
         "title": "Polos",
         "imageUrl": "./imgs/t-shirt.jpg",
-        "id": 2
+        "id": 2,
+        "linkUrl": ""
     },
     {
         "title": "Jackets",
         "imageUrl": "./imgs/t-shirt.jpg",
-        "id": 3
+        "id": 3,
+        "linkUrl": ""
     },
     {
         "title": "Accessories",
         "imageUrl": "./imgs/t-shirt.jpg",
         "size": "large",
-        "id": 4
+        "id": 4,
+        "linkUrl": ""
     },
     {
         "title": "Jeans",
         "imageUrl": "./imgs/t-shirt.jpg",
         "size": "large",
-        "id": 5
+        "id": 5,
+        "linkUrl": ""
     }
     
 ]
